@@ -7,12 +7,14 @@ published: true
 Working with a SQL database today, wanted to know how different values there were in a column, and how many records each of those values had. The sql snippet here give me that answer. <!--more-->
 
 <pre><code>SELECT
-  client_rep as Representative,
-  COUNT(*) AS NumberOfRecords
+SELECT
+  CUST_Representative_073047964 as Representative,
+  COUNT(*) AS 'NumberOfRecordsAssigned'
 FROM
-  contacts
+  TBL_CONTACT
 GROUP BY
-  client_rep
+  CUST_Representative_073047964
+ORDER BY 'NumberOfRecordsAssigned' DESC;
 </code></pre>
 
 What this turned up was there there were some records that had blank values, which, as it turns out, was VERY helpful to know.
