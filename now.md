@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-- Spend my time working between [Brisbane Australia](https://g.page/brisbane-technology-park?share) and [Port Vila, Vanuatu](https://goo.gl/maps/fZ1pYCu9v2MvsPY68) and elsewhere
+- Spend my time working between [Brisbane, Australia](https://g.page/brisbane-technology-park?share) and [Port Vila, Vanuatu](https://goo.gl/maps/fZ1pYCu9v2MvsPY68) and elsewhere
 - Senior Consultant/Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/) helping clients with CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools)
 - Using Python more frequently as a *software multi-tool*
 - Riding a Suzuki Bandit 1250 when in Australia, a Honda XR400R when in Vanuatu and trying to travel as much as possible everywhere else.
