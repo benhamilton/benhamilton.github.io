@@ -9,14 +9,16 @@ We've got an application (Act!) that uses MSSQL as it's backend. There is a drop
 
 Thus this, SQL snippet does that.<!--more-->
 
-<pre><code>SELECT
-  DROPDOWN_FIELDNAME,
-  COUNT(*) AS 'NumberOfRecords'
+```sql
+SELECT
+    DROPDOWN_FIELDNAME,
+    COUNT(*) AS 'NumberOfRecords'
 FROM
-  TBL_TABLENAME
+    TBL_TABLENAME
 GROUP BY
-  DROPDOWN_FIELDNAME
-ORDER BY 'NumberOfRecords' DESC;</code></pre>
+    DROPDOWN_FIELDNAME
+ORDER BY 'NumberOfRecords' DESC;
+```
 
 Replace the DROPDOWN_FIELDNAME in both places, and replace the TBL_TABLENAME with your table name.
 
