@@ -12,7 +12,7 @@ Currently employed at [Evolution Marketing Services](https://evolutionmarketing.
 
 His current focus is working with SugarCRM and products in it's ecosystem.
 
-He's also worked (or is working with) with Act!, Alfresco, MYOB, Viztopia, the Atlassian suite (JIRA, Confluence, HipChat, Bamboo, HipChat), Xero, Git, Act-on, MailChimp, WordPress, Python and much more.
+He's also worked (or is working with) with Act!, Alfresco, MYOB, Viztopia, the Atlassian suite (JIRA, Confluence, HipChat, Bamboo, HipChat), Xero, Git, Act-on, MailChimp, WordPress, Python, StarfishETL, Sugar Market and much more.
 
 This website (the one you’re reading right now) is him learning out loud.
 
