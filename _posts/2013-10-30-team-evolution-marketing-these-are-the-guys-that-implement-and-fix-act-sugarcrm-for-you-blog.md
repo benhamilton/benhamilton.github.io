@@ -9,4 +9,4 @@ categories:
 - Photo
 ---
 
-![](https://instagram.com/p/gFKWfSHbdc)
+[See the photo on Instagram](https://www.instagram.com/p/gFKWfSHbdc/)
