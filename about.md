@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ben Hamilton implements, configures and customises SugarCRM to help clients streamline their processes and workflow. Effective first, efficent second.
+Ben Hamilton implements, configures and customises SugarCRM to help clients streamline their processes and workflow. Effective first, efficient second.
 
 Having been in the Information Technology industry since 1995 he has a wealth of experience that he brings to bear on the day to day issues he assists clients with.
 
