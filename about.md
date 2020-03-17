@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ben Hamilton implements, configures and customises SugarCRM to help clients streamline their processes and workflow. Effective first, efficent second.
+Ben Hamilton implements, configures and customises SugarCRM to help clients streamline their processes and workflow. Effective first, efficient second.
 
 Having been in the Information Technology industry since 1995 he has a wealth of experience that he brings to bear on the day to day issues he assists clients with.
 
@@ -12,7 +12,7 @@ Currently employed at [Evolution Marketing Services](https://evolutionmarketing.
 
 His current focus is working with SugarCRM and products in it's ecosystem.
 
-He's also worked (or is working with) with Act!, Alfresco, MYOB, Viztopia, the Atlassian suite (JIRA, Confluence, HipChat, Bamboo, HipChat), Xero, Git, Act-on, MailChimp, WordPress, Python and much more.
+He's also worked (or is working with) with Act!, Alfresco, MYOB, Viztopia, the Atlassian suite (JIRA, Confluence, HipChat, Bamboo, HipChat), Xero, Git, Act-on, MailChimp, WordPress, Python, StarfishETL, Sugar Market and much more.
 
 This website (the one you’re reading right now) is him learning out loud.
 
