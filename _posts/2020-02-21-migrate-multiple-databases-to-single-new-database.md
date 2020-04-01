@@ -8,13 +8,11 @@ We are doing a multiple database migration into a new single database. The wrink
 
 I'll outline a simplified example of our problem, using just one record type, however we have Account, Contact, Notes, Activities (Calls, Meetings, Tasks), Emails, file attachments etc all thrown in here and related to one another.
 
-
 What it means now is that there are two input databases to migrate, that have account and contact records that have the same `GUID`'s.
 
 Imagine that the Sales department has following data in the datebase:
 
-
-**Sales Database**
+## Sales Database (Initial)
 
 | GUID | Name  | Rep  |
 |:-----|:------|:-----|
@@ -24,7 +22,7 @@ Imagine that the Sales department has following data in the datebase:
 
 And then it was copied and used by the Service department and became this:
 
-**Service Database**
+## Service Database (Initial)
 
 | GUID | Name  | Rep  |
 |:-----|:------|:-----|
@@ -47,15 +45,15 @@ Thus there must be a better way then just mashing it together and overwriting hi
 In our situation right now, we also have a few other considerations:
 
 1. The client is quite ok if there end up being duplicate Account or Contact records, so long as staff can easily see which records belong to which department
-2. In the future, we want the client to easily be able to merge records without drama or loss of history
-3. We need to run the migration more than once, thus not just an initial `INSERT` of data, but we'll do an *UPSERT*, that is an `UPDATE` if it's already migrated or `INSERT` if it's been added to the old database since the the last run of the migration job
-4. We (the team doing the migration) want these migration jobs (tasks) to **Just Work**™
+1. In the future, we want the client to easily be able to merge records without drama or loss of history
+1. We need to run the migration more than once, thus not just an initial `INSERT` of data, but we'll do an *UPSERT*, that is an `UPDATE` if it's already migrated or `INSERT` if it's been added to the old database since the the last run of the migration job
+1. We (the team doing the migration) want these migration jobs (tasks) to **Just Work**™
 
 Thusly what we do is map the source database to a new field, and we map the fields that are distincly different, like *Rep*, seperately.
 
 Thus the import source becomes as follows:
 
-**Sales Database**
+## Sales Database (Becomes)
 
 | GUID | Name  | Sales Rep  | Source |
 |:-----|:------|:-----------|:-------|
@@ -63,7 +61,7 @@ Thus the import source becomes as follows:
 | 456  | Bob   | Jill       | Sales  |
 | 789  | Cindy | Jane       | Sales  |
 
-**Service Database**
+## Service Database (Becomes)
 
 | GUID | Name  | Service Rep  | Source  |
 |:-----|:------|:-------------|:--------|
@@ -73,7 +71,7 @@ Thus the import source becomes as follows:
 
 Which when migrated becomes:
 
-**New Database**
+## New Database (Migrated)
 
 | GUID | Name  | Sales Rep |Service Rep | Source  |
 |:-----|:------|:----------|:-----------|:--------|
@@ -86,7 +84,7 @@ Which when migrated becomes:
 
 Later when they start to merge the records, they'll be able to have the following:
 
-**New Database with Records Merged**
+## New Database with Records Merged (Merged)
 
 | GUID | Name  | Sales Rep |Service Rep | Source  |
 |:-----|:------|:----------|:-----------|:--------|
@@ -94,6 +92,5 @@ Later when they start to merge the records, they'll be able to have the followin
 | 890  | Bob   | Jill      | Sue        | Merged  |
 | 901  | Cindy | Jane      |            | Sales   |
 | 432  | Diane |           | Jill       | Service |
-
 
 In order to bring these databases together is not complex, but it takes time, planning, good testing and above all, patience.
