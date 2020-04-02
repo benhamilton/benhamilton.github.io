@@ -8,7 +8,7 @@ We are doing a multiple database migration into a new single database. The wrink
 
 I'll outline a simplified example of our problem, using just one record type, however we have Account, Contact, Notes, Activities (Calls, Meetings, Tasks), Emails, file attachments etc all thrown in here and related to one another.
 
-What it means now is that there are two input databases to migrate, that have account and contact records that have the same `GUID`'s.
+What it means now is that there are two input databases to migrate, that have account and contact records that have the same GUID's.
 
 Imagine that the Sales department has following data in the database:
 
