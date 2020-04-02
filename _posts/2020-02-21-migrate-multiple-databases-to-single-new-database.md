@@ -4,13 +4,13 @@ title: Migrate Multiple Databases to Single New Database
 permalink: 2020-02-21-migrate-multiple-databases-to-single-new-database
 published: true
 ---
-We are doing a multiple database migration into a new single database. The wrinkle here is that one of the databases we are migrating is a copy of one of the other databases we are migrating. That is, at some point in the past, one division took a copy of the database and started using their own copy.<!--more-->
+We are doing a multiple database migration into a new single database. The wrinkle here is that one database we are migrating is a copy of one of the other databases we are migrating. At some point in the past, one division took a copy of the database and started using their own copy.<!--more-->
 
 I'll outline a simplified example of our problem, using just one record type, however we have Account, Contact, Notes, Activities (Calls, Meetings, Tasks), Emails, file attachments etc all thrown in here and related to one another.
 
 What it means now is that there are two input databases to migrate, that have account and contact records that have the same `GUID`'s.
 
-Imagine that the Sales department has following data in the datebase:
+Imagine that the Sales department has following data in the database:
 
 ## Sales Database (Initial)
 
@@ -42,16 +42,16 @@ We don't want to *lose* history of who did what and when, or said what to whom a
 
 Thus there must be a better way then just mashing it together and overwriting history.
 
-In our situation right now, we also have a few other considerations:
+In our situation we also have a few other considerations:
 
-1. The client is quite ok if there end up being duplicate Account or Contact records, so long as staff can easily see which records belong to which department
-1. In the future, we want the client to easily be able to merge records without drama or loss of history
-1. We need to run the migration more than once, thus not just an initial `INSERT` of data, but we'll do an *UPSERT*, that is an `UPDATE` if it's already migrated or `INSERT` if it's been added to the old database since the the last run of the migration job
+1. The client is ok if there end up being duplicate Account or Contact records, so long as staff can easily see which records belong to which department
+1., we want the client to easily be able to merge records without drama or loss of history
+1. We need to run the migration more than once, thus not just an initial `INSERT` of data, but we'll do an *UPSERT*, that is an `UPDATE` if it's already migrated or `INSERT` if added to the old database since the last run of the migration job
 1. We (the team doing the migration) want these migration jobs (tasks) to **Just Work**™
 
-Thusly what we do is map the source database to a new field, and we map the fields that are distincly different, like *Rep*, seperately.
+Thusly what we do is map the source database to a new field, and we map the fields that are distinctly different, like *Rep*, separately.
 
-Thus the import source becomes as follows:
+Thus the import source becomes:
 
 ## Sales Database (Becomes)
 
@@ -82,7 +82,7 @@ Which when migrated becomes:
 | 567  | Bob   |           | Sue        | Service |
 | 890  | Diane |           | Jill       | Service |
 
-Later when they start to merge the records, they'll be able to have the following:
+Later when they merge the records, they'll be able to have:
 
 ## New Database with Records Merged (Merged)
 
@@ -93,4 +93,4 @@ Later when they start to merge the records, they'll be able to have the followin
 | 901  | Cindy | Jane      |            | Sales   |
 | 432  | Diane |           | Jill       | Service |
 
-In order to bring these databases together is not complex, but it takes time, planning, good testing and above all, patience.
+To bring these databases together is not complex, but it takes time, planning, good testing and above all, patience.
