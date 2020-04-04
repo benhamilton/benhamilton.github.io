@@ -4,9 +4,9 @@ title: Migrate Multiple Databases to Single New Database
 permalink: 2020-02-21-migrate-multiple-databases-to-single-new-database
 published: true
 ---
-We are doing a multiple database migration into a new single database. The wrinkle here is that one database we are migrating is a copy of one of the other databases we are migrating. At some point in the past, one division took a copy of the database and started using their own copy.<!--more-->
+We are doing a multiple database migration into a new single database. The wrinkle here is that one database we are migrating is a copy of one of the other databases we are migrating. At some point in the past, one division took a copy of the database and started using their own copy. <!--more-->
 
-I'll outline a simplified example of our problem, using just one record type, however we have Account, Contact, Notes, Activities (Calls, Meetings, Tasks), Emails, file attachments etc all thrown in here and related to one another.
+I'll outline a simplified example of our problem - using just one record type - however we have Account, Contact, Notes, Activities (Calls, Meetings, Tasks), Emails, file attachments etc all thrown in here and related to one another.
 
 What it means now is that there are two input databases to migrate, that have account and contact records that have the same GUID's.
 
