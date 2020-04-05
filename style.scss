@@ -22,7 +22,8 @@ html {
 }
 
 body {
-	background: $white;
+  // background: $white; // originally white
+  background: #FFFFF0;   // Ivory = FF FF F0
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
