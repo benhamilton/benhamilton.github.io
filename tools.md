@@ -48,7 +48,7 @@ Items marked with 👨‍💻 are what I'm using to work remotely
 - 👨‍💻 Mac. Keyboard Maestro – [automate repetitive tasks](http://www.keyboardmaestro.com/main/)
 - Mac. A useful Caps Lock key – [Bretts instructions turn your Caps Lock key into something far more useful](http://brettterpstra.com/2012/12/08/a-useful-caps-lock-key/)
 - Mac. Marked 2 – [markdown previewer](http://marked2app.com/) (part of SetApp)
-- Mac. Backblaze – [online backup](https://www.backblaze.com/)
+- Mac. Backblaze – [online backup](https://www.backblaze.com/) ([affiliate link - you get a free month, so do I](https://secure.backblaze.com/r/014qk4))
 - Mac. Navicat for MySQL – [makes working with MySQL much easier](http://navicat.com/products/navicat-for-mysql/)
 - OS. CentOS – [Redhat compatible linux](https://www.centos.org/)
 - All. Docker – [Containers](https://www.docker.com/products/docker-desktop)
