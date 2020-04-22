@@ -61,9 +61,10 @@ Items marked with 👨‍💻 are what I'm using to work remotely
 
 ## Methodologies, Standards and Other Stuff
 
+- Markdown – [plain text formatting, easy to use on any platform, ensures future usability](http://daringfireball.net/projects/markdown/)
+- Bullet Journal Method - [Notes and journalling through the day](https://bulletjournal.com/)
 - Kanban – [Visualise your work, Limit your work in progress](https://www.atlassian.com/agile/kanban)
 - GTD – [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done)
-- Markdown – [plain text formatting, easy to use on any platform, ensures future usability](http://daringfireball.net/projects/markdown/)
 
 <hr />
 
