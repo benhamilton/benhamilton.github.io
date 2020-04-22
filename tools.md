@@ -35,6 +35,7 @@ Items marked with 👨‍💻 are what I'm using to work remotely
 
 ## Software
 
+- Mac. Setapp. One subscription, multiple apps ([affiliate link](https://go.setapp.com/invite/f324637e-6bb5-49ed-ab27-9dfff035e799))
 - 👨‍💻 All. Safari Books Online – [access bucketloads of technical and business books and videos, wonderful training resource](https://www.safaribooksonline.com/)
 - 👨‍💻 All. Dropbox – [cloud file storage](https://www.dropbox.com/)
 - 👨‍💻 All. 1Password – [trust me, you need a password manager](https://agilebits.com/onepassword) 
