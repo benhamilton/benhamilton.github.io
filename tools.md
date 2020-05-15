@@ -58,6 +58,7 @@ Items marked with 👨‍💻 are what I'm using to work remotely
 - 👨‍💻 All. Git – [GitHub](https://github.com/benhamilton), GitLab, BitBucket and vanilla [git](https://git-scm.com/book/en/v1/Getting-Started)
 - Mac. Laptop – [Easy way to get your machine setup to do development work](https://github.com/monfresh/laptop)
 - Mac. Jekyll Now – [Easy way to get Jekyll running](https://github.com/barryclark/jekyll-now)
+- Mac. The Silver Searcher - [ag - Fast searching of file contents](https://github.com/ggreer/the_silver_searcher) 
 
 ## Methodologies, Standards and Other Stuff
 
