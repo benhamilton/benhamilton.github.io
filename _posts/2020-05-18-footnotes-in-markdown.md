@@ -1,8 +1,13 @@
-# Footnotes in Markdown
+---
+layout: post
+title: Footnotes in Markdown
+permalink: 2020-05-18-footnotes-in-markdown
+published: true
+---
 
 Using markdown is great. Creating and using footnotes in markdown is very manual. Painful even.
 
-So I've created a Keyboard Maestro shortcut to make them easier.
+So I've created a Keyboard Maestro shortcut to make them easier.<!--more-->
 
 ![Keyboard Maestro Markdown Footnote Marcro](../images/kbm-mdfn.png)
 
