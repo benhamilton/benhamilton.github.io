@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>561883396.22491503</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>date "+%Y%m%d%H%M%S"</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>FootNoteID</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>ByTyping</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>Text</key>
+						<string>&lt;sup id="fnbl-%Variable%FootNoteID%"&gt;&lt;a href="#fn-%Variable%FootNoteID%"&gt;1&lt;/a&gt;&lt;/sup&gt;
+
+&lt;ol&gt;
+&lt;li id="fn-%Variable%FootNoteID%"&gt;
+&lt;p&gt;Text of footnote goes here. &lt;a href="#fnbl-%Variable%FootNoteID%" class="FootNoteBackLink" title="Jump back to footnote 1 in the text."&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>600588158.24216604</real>
+				<key>ModificationDate</key>
+				<real>611479413.839504</real>
+				<key>Name</key>
+				<string>:mdfn:</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>:mdfn:</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>5E37C0E5-2424-44FE-8C73-666C55B6DFE1</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Markdown</string>
+		<key>ToggleMacroUID</key>
+		<string>98180826-FE44-4752-946E-D866D0E66D6F</string>
+		<key>UID</key>
+		<string>4E454D58-2AF7-4FC4-9B8A-A12FCB378D03</string>
+	</dict>
+</array>
+</plist>
