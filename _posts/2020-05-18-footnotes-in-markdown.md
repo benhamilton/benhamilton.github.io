@@ -13,7 +13,15 @@ So I've created a Keyboard Maestro shortcut to make them easier.<!--more-->
 
 What it does is run a shell script to get the current date and time and saves that to a variable.
 
-Then we *insert by typing* the HTML code to do the superscript<sup id="fnbl-20200519095757"><a href="#fn-20200519095757">1</a></sup> for the foot note, then a line below insert an ordered list with a list item where the footnote text goes. Of course, we then move that to the bottom of the document. If you've got a way to auto do that and jump back to where we inserted, please let me know.
+Then we *insert by typing* the HTML code to do the superscript<sup id="fnbl-20200519095757"><a href="#fn-20200519095757">1</a></sup> for the foot note.
+
+We use the date-time variable to create a footnote id to go at the bottom of the document (ie `fn-yyyymmddhhmmss`) and a slight variation for the backlink back up to where the footnote was inserted (i.e. `fnbl-yyyymmddhhmmss`).
+
+Then a line below insert an ordered list with a list item where the footnote text goes. Of course, we then move that to the bottom of the document. 
+
+If we have more than one, manually update the number used for the footnote. Because the list of footnotes at the end are in an ordered list, they will be numbered automatically.
+
+If you've got a way to further automate this please let me know.
 
 [Download the macro](../images/kbm-mdfn.kmmacros)
 
