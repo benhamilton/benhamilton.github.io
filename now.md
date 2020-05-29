@@ -3,8 +3,8 @@ layout: page
 title: Now
 permalink: /now/
 ---
-
-Right now, working remotely from Brisbane Australia. The lockdowns and border closures due to COVID-19 have meant I can't get back to the beautiful beaches of Vanuatu, thus I'm on a slightly extended Brisbane stay. 
+<article class="h-now">
+Right now, working remotely from Brisbane Australia. The lockdowns and border closures due to COVID-19 have meant I can't get back to the beautiful beaches of Vanuatu, thus I'm on a slightly extended Brisbane stay.
 
 - Normally, I spend my time working between [Brisbane, Australia](https://g.page/brisbane-technology-park?share) and [Port Vila, Vanuatu](https://goo.gl/maps/fZ1pYCu9v2MvsPY68) and elsewhere... where-ever I can visit.
 - Senior Consultant/Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/) helping clients with CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Sugar Market, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools)
@@ -31,3 +31,4 @@ I don't count countries where I didn't leave the airport, so New Zealand and Qat
 See what I use to do my work on the [tools](/tools) page.
 
 This page is a [direct result of seeing this /now page](https://sivers.org/now). You should create your own.
+</article>
