@@ -6,6 +6,8 @@ permalink: /now/
 
 Right now, working remotely from Brisbane Australia. The lockdowns and border closures due to COVID-19 have meant I can't get back to the beautiful beaches of Vanuatu, thus I'm on a slightly extended Brisbane stay.
 
+The primary project I'm working on at the moment is for a client that brings currently outsourced operations inhouse to the client. The moving parts for this are SugarCRM, Avaya telepohony, two on premise apps, a large Excel/Visual Basic app and data movement in multiple directions between different sources. Early days but enjoying digging deep. Oddly enough, there is a actual *Thundercat* involved with the project.
+
 - Normally, I spend my time working between [Brisbane, Australia](https://g.page/brisbane-technology-park?share) and [Port Vila, Vanuatu](https://goo.gl/maps/fZ1pYCu9v2MvsPY68) and elsewhere... where-ever I can visit.
 - Senior Consultant/Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/) helping clients with CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Sugar Market, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools)
 - Riding a Suzuki Bandit 1250 when in Australia, a Honda XR400R when in Vanuatu and trying to travel as much as possible everywhere else.
