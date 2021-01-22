@@ -36,4 +36,9 @@ See what I use to do my work on the [tools](/tools) page.
 
 This page is a [direct result of seeing this /now page](https://sivers.org/now). You should create your own.
 
+<!-- so I'm testing and playing with Zendesk, hence why this zendesk support chat widget is here on this page. Ben. -->
+<!-- Start of con-ems Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6d7c70bc-c856-472f-85ce-0347878f0422"> </script>
+<!-- End of con-ems Zendesk Widget script -->
+
 
