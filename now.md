@@ -36,6 +36,7 @@ Places on my shortlist to visit next are, in alphabetical order:
 - India
 - Italy
 - Madagascar
+- Mauritius
 - Mongolia
 - Nepal
 - Norway
