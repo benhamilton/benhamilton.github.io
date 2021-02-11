@@ -24,7 +24,7 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 - Fisher Space Pen – the [SM4B Non-Reflective Military Matte Black](http://www.amazon.com/Fisher-NonReflective-Military-Cap-O-Matic-SM4B/dp/B001NXDFC8), great pen
 - Kuru Toga 0.7mm – my [favourite mechanical pencil](http://www.jetpens.com/Uni-ball-Kuru-Toga-Mechanical-Pencil-Starter-Set-0.7-mm/pd/10372)
 - Leuchtturm1917 Bullet Journal – [current notebook](https://www.leuchtturm1917.us/bullet-journal-5-3-4-x-8-1-4-in.html)
-- Moleskine – [also delightful notebooks](http://www.moleskine.com/us/collections/model/product/ruled-soft-notebook-pocket)
+- Moleskine – [also delightful notebook](http://www.moleskine.com/us/collections/model/product/ruled-soft-notebook-pocket)
 - Cold Bruer – [cold drip coffee](http://www.bruer.co/)
 - Nespresso Coffee Machine – If you’re going to drink pod coffee, don’t settle for less than one of these
 - Leatherman – [Don't settle for a lesser multi-tool](http://www.leatherman.com/multi-tools)
@@ -57,6 +57,8 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 - Mac. Laptop – [Easy way to get your machine setup to do development work](https://github.com/monfresh/laptop)
 - Mac. Jekyll Now – [Easy way to get Jekyll running](https://github.com/barryclark/jekyll-now)
 - Mac. The Silver Searcher - [ag - Fast searching of file contents](https://github.com/ggreer/the_silver_searcher)
+- All. GoodTask - [Sits atop Apple Reminders and Calendars, be more organised](https://goodtaskapp.com)
+- All. Logseq - [Linked notes, locally stored in git repo](https://logseq.com/)
 
 ## Methodologies, Standards and Other Stuff
 
