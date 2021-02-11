@@ -17,6 +17,7 @@ Current Projects:
 Also doing:
 
 - Riding a Suzuki Bandit GSF1250 & Suzuki GS500 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
+- Practicing recurve bow archery. Typically outdoors at 20 and 30 metres with 28lb limbs.
 - Still learning more about the Zettelkasten method of taking notes, it's already changed how I note take. If that interests you, go read this book [How to Take Smart Notes by Sönke Ahrens](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1)
 
 The countries I've visited, in order of visit are:
