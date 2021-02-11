@@ -6,10 +6,16 @@ permalink: /now/
 
 Right now, working remotely as I have done for the last 3+ years. The lockdowns and border closures due to COVID-19 have meant that travel has been a little more difficult, but not impossible.
 
-- Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Zendesk, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools). I've been with Evolution Marketing for over 12 years now in various roles.
+Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Zendesk, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools). I've been with Evolution Marketing for over 12 years now in various roles.
+
+Current Projects:
+
 - Project that brings currently outsourced operations inhouse to the client. SugarCRM, telepohony, mapping, on premise legacy applications, ETL processes.
 - Project to implement CRM and integration with ERP solution. Custom API endpoints, poorly documented API for one product, SugarCRM, legacy sales app, ERP product.
 - Project to implmenting software to help not just sales people, but management understand what's occuring. Zendesk, legacy JMS, new JMS, API fun and goodness.
+
+Also doing:
+
 - Riding a Suzuki Bandit GSF1250 & Suzuki GS500 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
 - Still learning more about the Zettelkasten method of taking notes, it's already changed how I note take. If that interests you, go read this book [How to Take Smart Notes by Sönke Ahrens](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1)
 
