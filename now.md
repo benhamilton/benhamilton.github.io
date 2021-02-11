@@ -6,11 +6,11 @@ permalink: /now/
 
 Right now, working remotely as I have done for the last 3+ years. The lockdowns and border closures due to COVID-19 have meant that travel has been a little more difficult, but not impossible.
 
-The primary project I'm working on at the moment is for a client that brings currently outsourced operations inhouse to the client. The moving parts for this are SugarCRM, telepohony, mapping, on premise applications, data movement inbound and outbound. Enjoying digging deep into the issues and workflows.
-There are a couple of other smaller projects on the periphery, all related to my core skills thank goodness.
-
-- Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Sugar Market, Zendesk, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools)
-- Riding a Suzuki Bandit GSF1250 & Suzuki GS500 when in Australia, a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
+- Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Zendesk, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools). I've been with Evolution Marketing for over 12 years now in various roles.
+- Project that brings currently outsourced operations inhouse to the client. SugarCRM, telepohony, mapping, on premise legacy applications, ETL processes.
+- Project to implement CRM and integration with ERP solution. Custom API endpoints, poorly documented API for one product, SugarCRM, legacy sales app, ERP product.
+- Project to implmenting software to help not just sales people, but management understand what's occuring. Zendesk, legacy JMS, new JMS, API fun and goodness.
+- Riding a Suzuki Bandit GSF1250 & Suzuki GS500 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
 - Still learning more about the Zettelkasten method of taking notes, it's already changed how I note take. If that interests you, go read this book [How to Take Smart Notes by Sönke Ahrens](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1)
 
 The countries I've visited, in order of visit are:
@@ -32,6 +32,8 @@ I don't count countries where I didn't leave the airport, so New Zealand and Qat
 
 Places on my shortlist to visit next are, in alphabetical order:
 
+- Antarctica
+- Botswana
 - Germany
 - India
 - Italy
@@ -41,6 +43,7 @@ Places on my shortlist to visit next are, in alphabetical order:
 - Nepal
 - Norway
 - Spain
+- Zimbabwe
 
 See what I use to do my work on the [tools](/tools) page.
 
