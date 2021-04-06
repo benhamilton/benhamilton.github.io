@@ -59,6 +59,7 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 - Mac. The Silver Searcher - [ag - Fast searching of file contents](https://github.com/ggreer/the_silver_searcher)
 - All. GoodTask - [Sits atop Apple Reminders and Calendars, be more organised](https://goodtaskapp.com)
 - All. Logseq - [Linked notes, locally stored in git repo](https://logseq.com/)
+- All. Obsidian - [Notes on steroids](https://obsidian.md/)
 
 ## Methodologies, Standards and Other Stuff
 

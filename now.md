@@ -6,19 +6,20 @@ permalink: /now/
 
 Right now, working remotely as I have done for the last 3+ years. The lockdowns and border closures due to COVID-19 have meant that travel has been a little more difficult, but not impossible.
 
-Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods. SugarCRM, Sugar Market, Zendesk, StarfishETL, Act-on, MailChimp, Act!, JIRA, Confluence, Git/GitHub and [more](http://ben.hamilton.id.au/tools). I've been with Evolution Marketing for over 12 years now in various roles.
+Senior Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. I've been with Evolution Marketing since 2008.
 
 Current Projects:
 
-- Project that brings currently outsourced operations inhouse to the client. SugarCRM, telepohony, mapping, on premise legacy applications, ETL processes.
-- Project to implement CRM and integration with ERP solution. Custom API endpoints, poorly documented API for one product, SugarCRM, legacy sales app, ERP product.
-- Project to implmenting software to help not just sales people, but management understand what's occuring. Zendesk, legacy JMS, new JMS, API fun and goodness.
+- Project implementing SugarCRM with an integration to custom ERP.
+- Project implementing Zendesk Sell to help sales and admin, give management improved visibility into what's occuring.
+- Phase two of a project with SugarCRM doing custom integrations with external providers.
+- Project to migrate from SugarCRM Ent to SugarCRM Sell, revise and rework sales and admin processes as we do.
 
 Also doing:
 
 - Riding a Suzuki Bandit GSF1250 & Suzuki GS500 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
-- Practicing recurve bow archery. Typically outdoors at 20 and 30 metres with 28lb limbs.
-- Still learning more about the Zettelkasten method of taking notes, it's already changed how I note take. If that interests you, go read this book [How to Take Smart Notes by Sönke Ahrens](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1)
+- Recurve bow archery, outdoors at 20 and 30 metres with 28lb limbs.
+- Practicing [Zettelkasten](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1) note taking, using Logseq and Obsidian on local markdown files in a git repo.
 
 The countries I've visited, in order of visit are:
 
@@ -55,10 +56,3 @@ Places on my shortlist to visit next are, in alphabetical order:
 See what I use to do my work on the [tools](/tools) page.
 
 This page is a [direct result of seeing this /now page](https://sivers.org/now). You should create your own.
-
-<!-- so I'm testing and playing with Zendesk, hence why this zendesk support chat widget is here on this page. Ben. -->
-<!-- Start of con-ems Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6d7c70bc-c856-472f-85ce-0347878f0422"> </script>
-<!-- End of con-ems Zendesk Widget script -->
-
-
