@@ -4,22 +4,23 @@ title: Now
 permalink: /now/
 ---
 
-Right now, working remotely as I have done for the last 3+ years. The lockdowns and border closures due to COVID-19 have meant that travel has been a little more difficult, but not impossible.
+Working at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, and fully remote since 2018. Current role is as a [Senior Solution Architect](https://www.linkedin.com/in/benhamilton/).
 
-Senior Solution Architect for [Evolution Marketing Services](http://evolutionmarketing.com.au/), basically helping our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. I've been with Evolution Marketing since 2008.
+I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. 
 
 Current Projects:
 
-- Project implementing SugarCRM with an integration to custom ERP.
-- Project implementing Zendesk Sell to help sales and admin, give management improved visibility into what's occuring.
-- Phase two of a project with SugarCRM doing custom integrations with external providers.
-- Project to migrate from SugarCRM Ent to SugarCRM Sell, revise and rework sales and admin processes as we do.
+- Project implementing [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) for a company the provides medical diagnostic equipment across Australia and New Zealand.
+- Project implementing [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) for a company that manufactures and sells medical and security imaging products globally. 
+- Project implementing [Zendesk](https://www.zendesk.com) for a company that provides property valuation services across Australia.
+- Phase two of a project where we implmented [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au), building custom two-way integrations with external providers.
+- Project to migrate from [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) Enterprise to Sugar Sell and Serve, automating some of the sales and admin processes into code automation to help staff spend less time doing admin, more time selling and supporting.
 
 Also doing:
 
-- Riding a Suzuki Bandit GSF1250 & Suzuki GS500 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
-- Recurve bow archery, outdoors at 20 and 30 metres with 28lb limbs.
-- Practicing [Zettelkasten](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1) note taking, using Logseq and Obsidian on local markdown files in a git repo.
+- Riding a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
+- Outdoor recurve bow archery, typically at 20 and 30 metres with 28lb limbs.
+- Practicing [Zettelkasten](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1) note taking, using [Obsidian](https://obsidian.md).
 
 The countries I've visited, in order of visit are:
 
@@ -33,10 +34,10 @@ The countries I've visited, in order of visit are:
 8. Norway (Hurtigruten! Fjords! Dog sleds! [WOW!!](https://www.cruisin.me/cruise-ship-webcams/hurtigruten/ms-richard-with2/))
 9. Austria (awesome snow)
 10. Switzerland (beautiful)
-11. **Vanuatu** (The other place I live. You should visit.)
+11. **Vanuatu** (The other place I live, message me if you visit)
 12. Nepal (mountains are amazing, people beautiful, I *really* miss the Moo Moo)
 
-I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the cut (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
+I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the list (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
 
 Places on my shortlist to visit next are, in alphabetical order:
 
