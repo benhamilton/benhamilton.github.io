@@ -22,7 +22,7 @@ Also doing:
 - Outdoor recurve bow archery, typically at 20 and 30 metres with 28lb limbs.
 - Practicing [Zettelkasten](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1) note taking, using [Obsidian](https://obsidian.md).
 
-The countries I've visited, in order of visit are:
+The countries I've visited, in order of first visit are:
 
 1. **Australia** (One of the two places I live)
 2. United States of America (Colorado was fab. New York better than expected)
@@ -37,6 +37,7 @@ The countries I've visited, in order of visit are:
 11. **Vanuatu** (The other place I live, message me if you visit)
 12. Nepal (mountains are amazing, people beautiful, I *really* miss the Moo Moo)
 13. Spain (Mungia, Bilbao, and more. Part of my heart is here)
+14. Croatia (Split, and Plitvice Lakes)
 
 I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the list (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
 
@@ -45,6 +46,7 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 - Antarctica
 - Australia
 - Botswana
+- Croatia
 - Germany
 - India
 - Italy
