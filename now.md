@@ -10,17 +10,15 @@ I help our clients understand and solve their problems using CRM and Marketing A
 
 Current Projects:
 
-- Project implementing [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) for a company the provides medical diagnostic services across Australia and New Zealand.
-- Project implementing [Zendesk](https://www.zendesk.com/?utm_source=ben.hamilton.id.au) for a company that provides property valuation services across Australia.
 - Project implementing [Zendesk Support Suite](https://www.zendesk.com/?utm_source=ben.hamilton.id.au) for a fun company that provides independant power products across Australia.
-- Project to migrate from [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) Enterprise to Sugar Sell and Serve, automating some of the sales and admin processes into code automation to help staff spend less time doing admin, more time selling and supporting.
+- Project implementing [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) for a company the provides medical diagnostic services across Australia and New Zealand.
+- Project updating [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) to align sales and engineering departments of a global company with workflows and customisations to shorten the time between initial enquiry and quote in the hands of the customer, all the while ensuring compliance.
 
 Also doing:
 
-- Currently in Spain, managed to get here for my daughters wedding.
+- Currently in Croatia, on my way back from Spain, where I attended my daughters wedding, it takes a bit of doing to get through the gatekeepers into Australia. This does mean working some rather odd hours.
 - Riding a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
 - Outdoor recurve bow archery, typically at 20 and 30 metres with 28lb limbs.
-- Practicing [Zettelkasten](https://www.amazon.com.au/dp/B06WVYW33Y/ref=cm_sw_em_r_mt_dp_U_7dIVEbJ9VHTM1) note taking, using [Obsidian](https://obsidian.md).
 
 The countries I've visited, in order of first visit are:
 
@@ -28,7 +26,7 @@ The countries I've visited, in order of first visit are:
 2. United States of America (Colorado was fab. New York better than expected)
 3. Malaysia (so. many. people.)
 4. Thailand (Chang Mai. Felt like home)
-5. Germany (Münster, Berlin, Selters Tanus, and more. Part of my heart is here)
+5. Germany (Münster, Berlin, Selters Tanus, and more)
 6. Denmark (enjoyed the train ride)
 7. Sweden (Old Town Stockholm was great, company was even better)
 8. Norway (Hurtigruten! Fjords! Dog sleds! [WOW!!](https://www.cruisin.me/cruise-ship-webcams/hurtigruten/ms-richard-with2/))
@@ -36,7 +34,7 @@ The countries I've visited, in order of first visit are:
 10. Switzerland (beautiful)
 11. **Vanuatu** (The other place I live, message me if you visit)
 12. Nepal (mountains are amazing, people beautiful, I *really* miss the Moo Moo)
-13. Spain (Mungia, Bilbao, and more. Part of my heart is here)
+13. Spain (Mungia, Bilbao, and more)
 14. Croatia (Split, and Plitvice Lakes)
 
 I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the list (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
