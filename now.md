@@ -36,6 +36,7 @@ The countries I've visited, in order of first visit are:
 12. Nepal (mountains are amazing, people beautiful, I *really* miss the Moo Moo)
 13. Spain (Mungia, Bilbao, and more)
 14. Croatia (Split, and Plitvice Lakes)
+15. Bosnia
 
 I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the list (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
 
