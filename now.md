@@ -16,7 +16,7 @@ Current Projects:
 
 Also doing:
 
-- Currently in Croatia, on my way back from Spain, where I attended my daughters wedding, it takes a bit of doing to get through the gatekeepers into Australia. This does mean working some rather odd hours.
+- Currently on my way back from Spain, where I attended my daughters wedding in October, it takes a bit of doing to get through the gatekeepers into Australia. This does mean working some rather odd hours.
 - Riding a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
 - Outdoor recurve bow archery, typically at 20 and 30 metres with 28lb limbs.
 
@@ -49,7 +49,6 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 - Croatia
 - Germany
 - India
-- Italy
 - Madagascar
 - Mauritius
 - Mongolia
