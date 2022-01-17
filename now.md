@@ -6,7 +6,8 @@ permalink: /now/
 
 Working at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, and fully remote since 2018. Current role is as a [Senior Solution Architect](https://www.linkedin.com/in/benhamilton/).
 
-I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. 
+I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficent second), Personal Knowledge Management, archery, and of course, motorcycling.
+
 
 Current Projects:
 
@@ -17,8 +18,7 @@ Current Projects:
 Also doing:
 
 - Currently on my way back from Spain, where I attended my daughters wedding in October, it takes a bit of doing to get through the gatekeepers into Australia. This does mean working some rather odd hours.
-- Riding a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be.
-- Outdoor recurve bow archery, typically at 20 and 30 metres with 28lb limbs.
+- Riding a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be. Trying to figure out if I can get another bike...
 
 The countries I've visited, in order of first visit are:
 
@@ -55,7 +55,7 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 - Nepal
 - Norway
 - Spain
-- Vanuatu (because, you know, it's home)
+- Vanuatu (because, you know, that's where home is)
 - Zimbabwe
 
 See what I use to do my work on the [tools](/tools) page.
