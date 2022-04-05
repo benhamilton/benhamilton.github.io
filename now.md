@@ -11,13 +11,15 @@ I help our clients understand and solve their problems using CRM and Marketing A
 
 Current Projects:
 
+- Peliminary stages investigating a project with a Hospital.
 - Project implementing [Zendesk Support Suite](https://www.zendesk.com/?utm_source=ben.hamilton.id.au) for a fun company that provides independant power products across Australia.
 - Project implementing [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) for a company the provides medical diagnostic services across Australia and New Zealand.
 - Project updating [Sugar](https://www.sugarcrm.com/au/?utm_source=ben.hamilton.id.au) to align sales and engineering departments of a global company with workflows and customisations to shorten the time between initial enquiry and quote in the hands of the customer, all the while ensuring compliance.
 
 Also doing:
 
-- Currently on my way back from Spain, where I attended my daughters wedding in October, it takes a bit of doing to get through the gatekeepers into Australia. This does mean working some rather odd hours.
+- Helping with some community work in Vanuatu.
+- Recently landed back in Australia at the start of Feb 2022, back from Spain, where I attended my daughters wedding in October 21, it has taken quite a bit of doing to get through the hoops to travel there and back, but *absolutely worth it!*
 - Riding a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be. Trying to figure out if I can get another bike...
 
 The countries I've visited, in order of first visit are:

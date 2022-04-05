@@ -18,10 +18,10 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 - Sony WH-1000XM3 - wireless, bluetooth [noise cancelling headphones](https://helpguide.sony.net/mdr/wh1000xm3/v1/en/contents/TP0001703149.html)
 - Suzuki Bandit 1250 – [my favoured transport in Australia](https://www.instagram.com/p/2Nc9Ytnbfv/)
 - Honda XR400R - [my favoured transport in Vanuatu](https://www.instagram.com/p/B8rq25MnWvx/)
-- Pilot MR2 Fountain Pen – [the pen I use the most](https://pilotpen.com.au/products/mr2-fountain/)
+- Pilot Metropolitan (MR) Fountain Pens – [the pens I use the most](https://pilotpen.com.au/products/mr2-fountain/) (I now have a few of these, with different nibs, and loaded with different inks)
 - Fisher Space Pen – the [SM4B Non-Reflective Military Matte Black](http://www.amazon.com/Fisher-NonReflective-Military-Cap-O-Matic-SM4B/dp/B001NXDFC8), great pen
 - Kuru Toga 0.7mm – my [favourite mechanical pencil](http://www.jetpens.com/Uni-ball-Kuru-Toga-Mechanical-Pencil-Starter-Set-0.7-mm/pd/10372)
-- Leuchtturm1917 Bullet Journals – [current notebook](https://www.leuchtturm1917.us/bullet-journal-5-3-4-x-8-1-4-in.html)
+- Leuchtturm1917 Bullet Journals – [current notebook](https://www.leuchtturm1917.us/bullet-journal-5-3-4-x-8-1-4-in.html) (Love these!)
 - Nespresso Coffee Machine – If you’re going to drink pod coffee, [don’t settle for less than one of these](https://www.nespresso.com/au/en/essenza-mini-coffee-machine)
 - Leatherman – [Don't settle for a lesser multi-tool](http://www.leatherman.com/multi-tools)
 
