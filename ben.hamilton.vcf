@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+N:Hamilton;Ben;;;
+FN:Ben Hamilton
+NICKNAME:Ben
+GENDER:M
+EMAIL;TYPE=home:ben@hamilton.id.au
+EMAIL;TYPE=work:ben@evolutionmarketing.com.au
+TEL;PREF=1;TYPE=cell:+61410460333
+TEL;PREF=2;TYPE=cell:+6785400985
+TEL;PREF=3;TYPE="voice,work":+61734233551
+URL:https://ben.hamilton.id.au/about
+NOTE:Commonly in the UTC+10 and UTC+11 timezones
+REV:20220405T111111Z
+END:VCARD
