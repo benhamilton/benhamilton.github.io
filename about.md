@@ -18,4 +18,4 @@ This website (the one you’re reading right now) is him learning out loud.
 
 A [list of tools Ben uses (or has used)](http://ben.hamilton.id.au/tools) and what he's up to right [now](https://ben.hamilton.id.au/now).
 
-You can email Ben at his firstname AT hamilton.id.au.
+You can email Ben at his firstname AT hamilton.id.au or find him on Mastodon <a rel="me" href="https://pkm.social/@benhamilton">@benhamilton@pkm.social</a>
