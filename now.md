@@ -11,13 +11,13 @@ I help our clients understand and solve their problems using CRM and Marketing A
 
 Current Projects:
 
-- Project implementing [Zendesk Support Suite](https://www.zendesk.com/?utm_source=ben.hamilton.id.au) for a national clothing company in Australia.
-- Project migrating a client from Salesforce to [Zendesk Support Suite](https://www.zendesk.com/?utm_source=ben.hamilton.id.au). 
+- Project implementing [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a national healthcare company in Australia.
 
 Also doing:
 
 - Helping with some community work in Vanuatu.
-- Touring on a Suzuki Bandit GSF1250 when in Australia, and a Honda XR400R when in Vanuatu and trying to travel and ride as much as possible everywhere I happen to be. Trying to figure out if I can get another bike... just because.
+- Riding a KTM 250 in Vanuatu, and a Suzuki Bandit 1250 when in Australia.
+- Visiting more islands in the Pacific
 
 The countries I've visited, in order of first visit are:
 
@@ -45,7 +45,8 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 - Antarctica
 - Australia
 - Botswana
-- Croatia
+- Croatia (likely March 2025)
+- Fiji (likely August 2024)
 - Germany
 - India
 - Madagascar
@@ -60,3 +61,5 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 See what I use to do my work on the [tools](/tools) page.
 
 This page is a [direct result of seeing this /now page](https://sivers.org/now). You should create your own.
+
+Updated 2024-03-01
