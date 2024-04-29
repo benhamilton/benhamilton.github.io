@@ -15,6 +15,7 @@ Current Projects:
 
 Also doing:
 
+- Playing with local LLMs and training them on information local to the device, I see locally trained LLMs as useful to both individuals and businesses, where their IP is kept local and not sent to the cloud
 - Helping with some community work in Vanuatu.
 - Riding a KTM 250 in Vanuatu, and a Suzuki Bandit 1250 when in Australia.
 - Visiting more islands in the Pacific
