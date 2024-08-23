@@ -10,20 +10,20 @@ I’m often asked what software and hardware I’m using. This page answers that
 
 I switched from living in ‘Microsoft Windows Land’ since the early 90’s to the Mac in 2013. I wish I’d done it sooner because the integration between the devices is wonderful.
 
-- MacBook Pro - the work horse
-- Mac Mini - the backup
-- iPhone 8 Plus – Great handheld computer, plus it has a phone
-- iPad Pro 10.5″ – with Apple keyboard cover and Apple Pencil
+- Mac Studio - the daily work horse
+- MacBook Air - the travel horse
+- iPhone 13 Pro – Great handheld computer, plus it has a phone
+- iPad Pro 10.5″ – with Apple Pencil
 - I added a pen clip from the “Bullet” Fischer Space Pen to the Apple Pencil<sup id="fnbl-20200522165741"><a href="#fn-20200522165741">1</a></sup>. The Apple Pencil is finally a real digital replacement for a paper pad and pen.
 - Sony WH-1000XM3 - wireless, bluetooth [noise cancelling headphones](https://helpguide.sony.net/mdr/wh1000xm3/v1/en/contents/TP0001703149.html)
 - Suzuki Bandit 1250 – [my favoured transport in Australia](https://www.instagram.com/p/2Nc9Ytnbfv/)
-- Honda XR400R - [my favoured transport in Vanuatu](https://www.instagram.com/p/B8rq25MnWvx/)
+- Honda XR400R - [transport in Vanuatu](https://www.instagram.com/p/B8rq25MnWvx/)
+- KTM Freeride 2018 - (a real mountain goat!)
+- Caran d'Ache Fountain Pen - if I had to choose a single pen, this is it.
 - Pilot Metropolitan (MR) Fountain Pens – [the pens I use the most](https://pilotpen.com.au/products/mr2-fountain/) (I now have a few of these, with different nibs, and loaded with different inks)
 - Fisher Space Pen – the [SM4B Non-Reflective Military Matte Black](http://www.amazon.com/Fisher-NonReflective-Military-Cap-O-Matic-SM4B/dp/B001NXDFC8), great pen
 - Kuru Toga 0.7mm – my [favourite mechanical pencil](http://www.jetpens.com/Uni-ball-Kuru-Toga-Mechanical-Pencil-Starter-Set-0.7-mm/pd/10372)
 - Leuchtturm1917 Bullet Journals – [current notebook](https://www.leuchtturm1917.us/bullet-journal-5-3-4-x-8-1-4-in.html) (Love these!)
-- Nespresso Coffee Machine – If you’re going to drink pod coffee, [don’t settle for less than one of these](https://www.nespresso.com/au/en/essenza-mini-coffee-machine)
-- Leatherman – [Don't settle for a lesser multi-tool](http://www.leatherman.com/multi-tools)
 
 
 ## Software
@@ -58,6 +58,6 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 
 <ol>
     <li id="fn-20200522165741">
-        <p>I get most of my pens and inks from the Pen Shoppe, 24 Brisbane Arcade, 160 Queen Street Brisbane QLD Australia. <a href="#fnbl-20200522165741" class="FootNoteBackLink" title="Jump back to footnote 1 in the text.">↩︎</a></p>
+        <p>I get most of my pens and inks from the Pen Shoppe, 24 Brisbane Arcade, 160 Queen Street Brisbane QLD Australia. The folks there know their stuff. <a href="#fnbl-20200522165741" class="FootNoteBackLink" title="Jump back to footnote 1 in the text.">↩︎</a></p>
     </li>
 </ol>
