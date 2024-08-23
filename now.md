@@ -65,4 +65,4 @@ See what I use to do my work on the [tools](/tools) page.
 
 This page is a [direct result of seeing this /now page](https://sivers.org/now). You should create your own.
 
-Updated 2024-03-01
+Updated 2024-08-23
