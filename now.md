@@ -11,7 +11,8 @@ I help our clients understand and solve their problems using CRM and Marketing A
 
 Current Projects:
 
-- Project implementing [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a national healthcare company in Australia.
+- Projects building reports in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a major hospital, a building services company, and a manufacturer supplying resellers.
+
 
 Also doing:
 
