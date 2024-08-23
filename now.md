@@ -37,6 +37,7 @@ The countries I've visited, in order of first visit are:
 14. Croatia (Brač, Dubrovnik, Plitvice Lakes, and Split)
 15. Bosnia (would have liked more time here)
 16. Italy (Tuscany, Rome)
+17. Fiji (Caught up with friends, I'll be back)
 
 I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the list (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
 
@@ -45,8 +46,8 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 - Antarctica
 - Australia
 - Botswana
-- Croatia (likely March 2025)
-- Fiji (likely August 2024)
+- Croatia
+- Fiji 
 - Germany
 - India
 - Madagascar
