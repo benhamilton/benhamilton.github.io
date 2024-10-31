@@ -4,15 +4,17 @@ title: Now
 permalink: /now/
 ---
 
-Working at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, and fully remote since 2018. Current role is as a [Senior Solution Architect](https://www.linkedin.com/in/benhamilton/).
+Updated: 2024-10-31 from Brisbane Australia
+
+Working at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, and fully remote since 2018. Current role is as a [Senior Solution Consultant](https://www.linkedin.com/in/benhamilton/).
 
 I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficent second), Personal Knowledge Management, archery, and of course, motorcycling.
 
-
 Current Projects:
 
-- Projects building reports in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a major hospital, a building services company, and a manufacturer supplying resellers.
-
+- Project implementing [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a property company in Australia.
+- Project updating and improving workflows in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for an Australia company that manages Self Managed Super Funds.
+- Assisting in a project where we're improving the support systems for a national white goods outlet. 
 
 Also doing:
 
@@ -64,5 +66,3 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 See what I use to do my work on the [tools](/tools) page.
 
 This page is a [direct result of seeing this /now page](https://sivers.org/now). You should create your own.
-
-Updated 2024-08-23
