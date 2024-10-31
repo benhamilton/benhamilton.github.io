@@ -14,7 +14,7 @@ Current Projects:
 
 - Project implementing [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a property company in Australia.
 - Project updating and improving workflows in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for an Australia company that manages Self Managed Super Funds.
-- Assisting in a project where we're improving the support systems for a national white goods outlet. 
+- Assisting in a [Zendesk](https://www.zendesk.com/?utm_source=ben.hamilton.id.au) project where we're improving the support systems for a national white goods outlet. 
 
 Also doing:
 
