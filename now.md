@@ -10,7 +10,7 @@ Worked at [Evolution Marketing Services](http://evolutionmarketing.com.au/) sinc
 
 I've been fully remote since 2018 and my current role is as a [Senior Solution Consultant](https://www.linkedin.com/in/benhamilton/).
 
-I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficent second), Personal Knowledge Management, archery, and of course, motorcycling.
+I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficient second), Personal Knowledge Management, archery, and of course, motorcycling.
 
 Current Projects:
 
