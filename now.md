@@ -4,10 +4,11 @@ title: Now
 permalink: /now/
 ---
 
-Updated: 2024-10-31 from Brisbane Australia
+Updated: 2024-11-19 from Brisbane Australia
 
 Worked at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, which has from November 5th 2024 merged with [Optimate.me](https://www.optimate.me/articles/optimate-me-and-evolution-marketing-have-merged), which where I am still working, so change of name, but still the same work, which I enjoy.
-I've been fully remote since 2018. Current role is as a [Senior Solution Consultant](https://www.linkedin.com/in/benhamilton/), .
+
+I've been fully remote since 2018 and my current role is as a [Senior Solution Consultant](https://www.linkedin.com/in/benhamilton/).
 
 I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficent second), Personal Knowledge Management, archery, and of course, motorcycling.
 
