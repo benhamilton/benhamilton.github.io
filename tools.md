@@ -11,7 +11,7 @@ I’m often asked what software and hardware I’m using. This page answers that
 I switched from living in ‘Microsoft Windows Land’ since the early 90’s to the Mac in 2013. I wish I’d done it sooner because the integration between the devices is wonderful.
 
 - Mac Studio - the daily work horse
-- MacBook Air - the travel horse
+- MacBook Air - the travel pony
 - iPhone 13 Pro – Great handheld computer, plus it has a phone
 - iPad Pro 10.5″ – with Apple Pencil
 - I added a pen clip from the “Bullet” Fischer Space Pen to the Apple Pencil<sup id="fnbl-20200522165741"><a href="#fn-20200522165741">1</a></sup>. The Apple Pencil is finally a real digital replacement for a paper pad and pen.
@@ -31,7 +31,6 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 - All. O'Reilly Learning, aka Safari Books Online – [access bucketloads of technical and business books and videos, wonderful training resource](https://www.safaribooksonline.com/)
 - All. Obsidian - [Notes on steroids](https://obsidian.md/)
 - All. 1Password – [trust me, you need a password manager](https://agilebits.com/onepassword)
-- All. GoodTask - [Sits atop Apple Reminders and Calendars, be more organised](https://goodtaskapp.com)
 - All. Dropbox – [cloud file storage](https://www.dropbox.com/)
 - All. Git – [GitHub](https://github.com/benhamilton), GitLab, BitBucket and vanilla [git](https://git-scm.com/book/en/v1/Getting-Started)
 - Mac, Win, Linux. [Sublime Text](https://www.sublimetext.com/) – text editor (everything starts as text) - this is the one text editor I use, I suggest you learn one text editor and learn it really well, it'll pay off for you in productivity
@@ -40,7 +39,7 @@ I switched from living in ‘Microsoft Windows Land’ since the early 90’s to
 - Mac. Hazel – [file and folder automation](http://www.noodlesoft.com/hazel.php)
 - Mac. Marked 2 – [markdown previewer](http://marked2app.com/) (part of SetApp)
 - Mac. Laptop – [Easy way to get your machine setup to do development work](https://github.com/monfresh/laptop)
-- Mac. Jekyll Now – [Easy way to get Jekyll running](https://github.com/barryclark/jekyll-now)
+- Mac. Jekyll Now – [Easy way to get Jekyll running](https://github.com/barryclark/jekyll-now) UPDATE 2024-12: Have just used [Jay Alammar's](https://github.com/jalammar/jalammar.github.io) fork of the repo I used to help someone else setup their own blog on Jekyll using GitHub
 - Mac. The Silver Searcher - [ag - Fast searching of file contents](https://github.com/ggreer/the_silver_searcher)
 - iOS. GoodNotes 5 – [Digital Ink](http://www.goodnotesapp.com/). This is a required app if you’ve got an iPad Pro and Pencil. It makes taking real notes just like, well, taking real notes. Drop in PDF files, scribble on them, mark them up, share them - I use it daily
 - iOS. Working Copy – hands down [the best Git client on iOS](https://workingcopyapp.com/)

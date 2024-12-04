@@ -4,9 +4,9 @@ title: Now
 permalink: /now/
 ---
 
-Updated: 2024-11-19 from Brisbane Australia
+Updated: 2024-12-05 from Port Vila Vanuatu
 
-Worked at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, which has from November 5th 2024 merged with [Optimate.me](https://www.optimate.me/articles/optimate-me-and-evolution-marketing-have-merged), which where I am still working, so change of name, but still the same work, which I enjoy.
+Worked at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, which has from November 5th 2024 merged with [Optimate.me](https://www.optimate.me/articles/optimate-me-and-evolution-marketing-have-merged?utm_source=ben.hamilton.id.au), which where I am still working, so change of name, but still the same work, which I enjoy.
 
 I've been fully remote since 2018 and my current role is as a [Senior Solution Consultant](https://www.linkedin.com/in/benhamilton/).
 
@@ -14,9 +14,8 @@ I help our clients understand and solve their problems using CRM and Marketing A
 
 Current Projects:
 
-- Project implementing [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a property company in Australia.
-- Project updating and improving workflows in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for an Australia company that manages Self Managed Super Funds.
-- Assisting in a [Zendesk](https://www.zendesk.com/?utm_source=ben.hamilton.id.au) project where we're improving the support systems for a national white goods outlet. 
+- Project improving the workflow for staff in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a company specialising medical properties.
+- Project updating how subscriptions are handled in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for an Australian organisation that provides services to educators.
 
 Also doing:
 
