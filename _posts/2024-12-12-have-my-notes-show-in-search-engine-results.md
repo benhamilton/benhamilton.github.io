@@ -14,4 +14,4 @@ Enter [Omnisearch](https://publish.obsidian.md/omnisearch/Inject+Omnisearch+resu
 
 By installing this plugin in Obsidian, turning on the built in HTTP server, then installing the Omnisearch Companion, Tampermonkey, and the userscript for both Google and DuckDuckGo (the two search engines I tend to use, but Kagi and Bing are also supported) I can now search in the search engine and see my notes appear at the side of those results. SO. AWESOME.
 
-![Example screenshot](images/obsidian-omnisearch-example.png)
+![Example screenshot](/images/obsidian-omnisearch-example.png)
