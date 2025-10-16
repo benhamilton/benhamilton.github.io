@@ -4,29 +4,30 @@ title: Now
 permalink: /now/
 ---
 
-Updated: 2024-12-05 from Port Vila Vanuatu
+Updated: 2025-10-16 from Vanuatu
 
-Worked at [Evolution Marketing Services](http://evolutionmarketing.com.au/) since 2008, which has from November 5th 2024 merged with [Optimate.me](https://www.optimate.me/articles/optimate-me-and-evolution-marketing-have-merged?utm_source=ben.hamilton.id.au), which where I am still working, so change of name, but still the same work, which I enjoy.
+Since September 2025, I've been consulting with [Stone Community Care](https://www.stonecca.org.au/) as their Digital Infrastructure Manager.
+Prior to that I consulted with [Evolution Marketing Services](http://evolutionmarketing.com.au/) from 2008 to 2025, which merged with [Optimate.me](https://www.optimate.me/articles/optimate-me-and-evolution-marketing-have-merged?utm_source=ben.hamilton.id.au) in November 2024. 
 
-I've been fully remote since 2018 and my current role is as a [Senior Solution Consultant](https://www.linkedin.com/in/benhamilton/).
+I've been fully remote since 2018. My current focus is on compliance work and implementing digital infrastructure to support State Coordinators, with ongoing CRM work and future marketing automation projects.
 
-I help our clients understand and solve their problems using CRM and Marketing Automation using Agile methods, see [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficient second), Personal Knowledge Management, archery, and of course, motorcycling.
+I help solve problems in business by using CRM, Marketing Automation, and other technology, often using Agile methods. See [about](https://ben.hamilton.id.au/about) and [tools](http://ben.hamilton.id.au/tools) for more info. My primary interests are family, health, travel, productivity (making effective first, efficient second), Personal Knowledge Management, archery, and of course, motorcycling.
 
 Current Projects:
 
-- Project improving the workflow for staff in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for a company specialising medical properties.
-- Project updating how subscriptions are handled in [SugarCRM](https://www.sugarcrm.com/?utm_source=ben.hamilton.id.au) for an Australian organisation that provides services to educators.
+- Ensuring compliance and implementing digital infrastructure to support State Coordinators at Stone Community Care.
+- Ongoing CRM work and planning for future marketing automation implementations.
 
 Also doing:
 
-- Playing with local LLMs and training them on information local to the device, I see locally trained LLMs as useful to both individuals and businesses, where their IP is kept local and not sent to the cloud
-- Helping with some community work in Vanuatu.
-- Riding a KTM 250 in Vanuatu, and a Suzuki Bandit 1250 when in Australia.
+- Playing with local LLMs (LM Studio, MacWhisper) and AI tools like Claude Code. Training LLMs on information local to the device - I see locally trained LLMs as useful to both individuals and businesses, where their IP is kept local and not sent to the cloud
+- Extensive community work in Vanuatu, mostly on Efate Island. Spent 2 weeks on Tanna in August 2025 helping out, and assisting with future projects that will take place on other islands.
+- Riding a KTM 250 in Vanuatu.
 - Visiting more islands in the Pacific
 
 The countries I've visited, in order of first visit are:
 
-1. **Australia** (One of the two places I live)
+1. Australia (Born here many moons ago)
 2. United States of America (Colorado was fab. New York better than expected)
 3. Malaysia (so. many. people.)
 4. Thailand (Chang Mai. Felt like home)
@@ -36,13 +37,13 @@ The countries I've visited, in order of first visit are:
 8. Norway (Hurtigruten! Fjords! Dog sleds! [WOW!!](https://www.cruisin.me/cruise-ship-webcams/hurtigruten/ms-richard-with2/))
 9. Austria (awesome snow)
 10. Switzerland (beautiful)
-11. **Vanuatu** (The other place I live, message me if you visit)
+11. **Vanuatu** (This is where I live, message me if you visit and we'll grab a coffee)
 12. Nepal (mountains are amazing, people beautiful, I *really* miss the Moo Moo)
 13. Spain (Mungia, Bilbao, and more)
 14. Croatia (Brač, Dubrovnik, Plitvice Lakes, and Split)
 15. Bosnia (would have liked more time here)
 16. Italy (Tuscany, Rome)
-17. Fiji (Caught up with friends, I'll be back)
+17. Fiji (Caught up with friends, and I've been back already for a second visit)
 
 I don't count countries where I didn't leave the airport, so New Zealand and Qatar haven't yet made the list (yet) but even with them, I've still visited fewer countries than one of my kids, she is the real *globetrotter*!
 
@@ -61,7 +62,7 @@ Places on my shortlist to visit next (or again) are, in alphabetical order:
 - Nepal
 - Norway
 - Spain
-- Vanuatu (because, you know, that's where home is)
+- Vanuatu (home sweet home)
 - Zimbabwe
 
 See what I use to do my work on the [tools](/tools) page.
