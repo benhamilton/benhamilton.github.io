@@ -27,7 +27,7 @@ Also doing:
 
 The countries I've visited, in order of first visit are:
 
-1. Australia (Born here many moons ago)
+1. Australia (Born there many moons ago)
 2. United States of America (Colorado was fab. New York better than expected)
 3. Malaysia (so. many. people.)
 4. Thailand (Chang Mai. Felt like home)
