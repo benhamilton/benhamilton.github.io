@@ -4,9 +4,9 @@ title: Now
 permalink: /now/
 ---
 
-Updated: 2025-10-16 from Vanuatu
+Updated: 2026-06-22 from Vanuatu
 
-Since September 2025, I've been consulting with [Stone Community Care](https://www.stonecca.org.au/) as their Digital Infrastructure Manager.
+Since September 2025 I've been with [Stone Community Care](https://www.stonecca.org.au/), starting as their Digital Infrastructure Manager and stepping into the CIO role in June 2026.
 Prior to that I consulted with [Evolution Marketing Services](http://evolutionmarketing.com.au/) from 2008 to 2025, which merged with [Optimate.me](https://www.optimate.me/articles/optimate-me-and-evolution-marketing-have-merged?utm_source=ben.hamilton.id.au) in November 2024. 
 
 I've been fully remote since 2018. My current focus is on compliance work and implementing digital infrastructure to support State Coordinators, with ongoing CRM work and future marketing automation projects.
@@ -20,10 +20,7 @@ Current Projects:
 
 Also doing:
 
-- Playing with local LLMs (LM Studio, MacWhisper) and AI tools like Claude Code. Training LLMs on information local to the device - I see locally trained LLMs as useful to both individuals and businesses, where their IP is kept local and not sent to the cloud
-- Extensive community work in Vanuatu, mostly on Efate Island. Spent 2 weeks on Tanna in August 2025 helping out, and assisting with future projects that will take place on other islands.
-- Riding a KTM 250 in Vanuatu.
-- Visiting more islands in the Pacific
+- Playing with local LLMs and frontier model AI tools. Training LLMs on information local to the device - I see locally trained LLMs as useful to both individuals and businesses, where their IP is kept local and not sent to the cloud
 
 The countries I've visited, in order of first visit are:
 
